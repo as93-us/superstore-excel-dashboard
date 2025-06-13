@@ -49,9 +49,9 @@ Superstore-Excel-Dashboard/
 
 - [Superstore_Dashboard.xlsx](./Superstore_dashboard.xlsx)  
 - [Dashboard.png](./screenshots/Dashboard.png)  
-- [Revenue by Category.png](./screenshots/Revenue by Category.png)
-- [Revenue by Region.png](./screenshots/Revenue by Region.png)
-- [Sales Trend.png](./screenshots/Sales Trend.png)
+- [Revenue_by_Category.png](./screenshots/Revenue_by_Category.png)
+- [Revenue_by_Region.png](./screenshots/Revenue_by_Region.png)
+- [Sales_Trend.png](./screenshots/Sales_Trend.png)
 
 ---
 
